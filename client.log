@@ -1,0 +1,16 @@
+ERROR:root:Error: Expecting value: line 1 column 1 (char 0)
+INFO:root:Data saved to JSON file
+INFO:root:Data saved to YAML file
+INFO:root:Data saved to XML file
+INFO:root:Data saved to TXT file
+INFO:root:Data fetched and saved successfully
+INFO:root:Data saved to JSON file
+INFO:root:Data saved to YAML file
+INFO:root:Data saved to XML file
+INFO:root:Data saved to TXT file
+INFO:root:Data fetched and saved successfully
+INFO:root:Data saved to JSON file
+INFO:root:Data saved to YAML file
+INFO:root:Data saved to XML file
+INFO:root:Data saved to TXT file
+INFO:root:Data fetched and saved successfully
